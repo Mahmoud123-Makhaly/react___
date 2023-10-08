@@ -1,0 +1,10 @@
+.userInfo {
+  border: 1px solid #000;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 1em;
+  list-style: none;
+}
+.borderColor {
+  border: 1px solid red;
+}
